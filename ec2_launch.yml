@@ -119,3 +119,4 @@ Outputs:
       Fn::GetAtt:
       - WebServerInstance
       - PublicIp
+      
